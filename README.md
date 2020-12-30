@@ -1,7 +1,7 @@
 ## Text to speech 
 
 * Convey sessional greetings to build everlasting memories, I developed a text to speech code to wish Happy New Years in 164 languages.
-* Visualization the text using word cloud
+* Visualized the greetings using word cloud
 
 ## Packages & Tool Kit
 
