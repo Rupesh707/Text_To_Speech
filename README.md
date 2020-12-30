@@ -5,6 +5,6 @@
 
 ## Packages & Tool Kit
 
-**Packages:** gTTS, Os
+**Packages:** gTTS, Os , wordcloud , fileupload, ipywidgets, numpy, Ipython.dsiplay, io, sys
 
 **Web Framework:** ```pip install -r requirements.txt``` 
