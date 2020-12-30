@@ -1,7 +1,7 @@
 ## Text to speech 
 
 * Developed a text to speech code to convey seasonal greetings in 164 languages.
-* Desinged a world cloud for visualization
+* Visualization the text using word cloud
 
 ## Packages & Tool Kit
 
