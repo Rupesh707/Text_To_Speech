@@ -12,4 +12,4 @@
 
 ## Visualization
 
-![alt text](https://github.com/Rupesh707/Text_To_Speech/blob/main/Cloud.png "NYE Wordcloud")
+![alt text](https://github.com/Rupesh707/Text_To_Speech/blob/Master/Cloud.png "NYE Wordcloud")
